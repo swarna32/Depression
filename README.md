@@ -18,4 +18,5 @@ The following machine learning models were trained and evaluated:
 - **Logistic Regression (LR)**
 - **Decision Tree (DT)**
 - **Naive Bayes (NB)**
+
 Each model's performance was assessed using standard metrics such as accuracy, precision, recall, and F1-score.
